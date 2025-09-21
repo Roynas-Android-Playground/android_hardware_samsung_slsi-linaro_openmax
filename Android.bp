@@ -1,5 +1,5 @@
 soong_namespace {
     imports:[
-        "hardware/samsung_slsi-linaro/interfaces"
+//        "hardware/samsung_slsi-linaro/interfaces"
     ],
 }
